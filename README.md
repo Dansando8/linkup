@@ -87,8 +87,8 @@ LinkUp is an app for creating and joining events based on shared interests. The 
 
 ## Contributors
 
-* Daniel Sandoval - [GitHub](https://github.com/Dansando8) - [LinkedIn](https://www.linkedin.com/in/cherl/)
-* Łukasz Tylke - [GitHub](https://github.com/lthemis) - [LinkedIn](https://www.linkedin.com/in/lukasztt/)
-* Peter Hirsch-Parker - [GitHub](https://github.com/pshp) - [LinkedIn](https://www.linkedin.com/in/peter-hirsch-parker-b96176106/)
-* Rafael Falk - [GitHub](https://github.com/rbrtrfl) - [LinkedIn](www.linkedin.com/in/rbrtrflflk)
-* Rob Kendrick - [GitHub](https://github.com/rob-kendrick) - [LinkedIn](https://www.linkedin.com/in/rob-kendrick-107268203/)
+* Daniel Sandoval 
+* Łukasz Tylke 
+* Peter Hirsch-Parker 
+* Rafael Falk 
+* Rob Kendrick
